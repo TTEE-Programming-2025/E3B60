@@ -14,12 +14,12 @@ void run();
 void end();
 void menu();
 void menu(void){										
-	printf("~~~~~~~~[選位系統]~~~~~~~~\n");               
-	printf("* (a)顯示現有座位表      *\n");
-	printf("* (b)電腦排位            *\n");
-	printf("* (c)自主選位            *\n");
-	printf("* (d)系統結束            *\n");
-	printf("~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
+	printf("~~~~~~~~[選位系統]~~~~~~~~~\n");               
+	printf("* (a)Available seats      *\n");
+	printf("* (b)電腦排位             *\n");
+	printf("* (c)自主選位             *\n");
+	printf("* (d)系統結束             *\n");
+	printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 }
 void end(void){
 printf("我覺得這一次的作業有點難，花了我好久才做完，但是藉由這次的作業，使我更了解應該如何操作。");	

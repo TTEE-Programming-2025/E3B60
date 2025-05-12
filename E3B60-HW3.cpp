@@ -16,9 +16,9 @@ void menu();
 void menu(void){										
 	printf("~~~~~~~~[選位系統]~~~~~~~~~\n");               
 	printf("* (a)Available seats      *\n");
-	printf("* (b)電腦排位             *\n");
-	printf("* (c)自主選位             *\n");
-	printf("* (d)系統結束             *\n");
+	printf("* (b)Arrange for you      *\n");
+	printf("* (c)Choose by yourself   *\n");
+	printf("* (d)Exit                 *\n");
 	printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 }
 void end(void){

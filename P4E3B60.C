@@ -25,13 +25,13 @@ float grades(int i){	   //declare subroutine
 } 
 int n=0;
 void menu(void){										
-	printf("--------[Grade system]-----------\n");               
-	printf("| a.Enter student grades        |\n");
-	printf("| b.Display student grades      |\n");
-	printf("| c.Search for student grades   |\n");
-	printf("| d.Grand ranking               |\n");
-	printf("| e.Exit system                 |\n");
-	printf("---------------------------------\n");
+	printf("--------[Grade system]--------------\n");               
+	printf("| a.Enter student grades           |\n");
+	printf("| b.Display student grades         |\n");
+	printf("| c.Search for student grades      |\n");
+	printf("| d.Grand ranking                  |\n");
+	printf("| e.Exit system                    |\n");
+	printf("------------------------------------\n");
 }
 void end(void){
 	printf("我覺得經過這次的作業練習,程式對我來說越來越難了,看來需要多花時間練習了,需要思考switch及迴圈的用法!");

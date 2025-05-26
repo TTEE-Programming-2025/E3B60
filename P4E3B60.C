@@ -281,7 +281,7 @@ int main(){
     scanf("%d",&num);                                               //Enter an integer from the keyboard and assign it to num for storage
     fflush(stdin);													//Clear buffer data
 	if(num==2025){                                                  //if num=2021 
-		xx=4;		 							clear screen		//xx is the number of errors=4
+		xx=4;											        		//xx is the number of errors=4
 	}
 	else{															//otherwise
 		xx++; 														//Number of errors +1
